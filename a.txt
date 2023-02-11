@@ -1,10 +1,8 @@
-/usr/bin/bash: line 1:wq: command not found
+/usr/bin/bash: line Esc:wq Enter command not found
 second line 
-<<<<<<< HEAD
 third line added in cloud
 forth line add in local
-=======
 third line added in cloud 
 fifth line added in cloud
->>>>>>> 330a685059dc72b36068753c559127ae6449869a
+
 
